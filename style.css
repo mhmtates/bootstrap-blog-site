@@ -1,0 +1,28 @@
+.navbar{
+    background:#085E7D;
+}
+#explain{
+    background:#085E7D!important;
+}
+#footer{
+    background:#085E7D!important;
+}
+.card-img-top{
+    width:100%;
+    height: 32vh;
+    object-fit: cover;
+}
+#map{
+    height: 450px;
+    width: 100%;
+}
+@media(min-width:768px){
+    .card-img-top{
+       
+        height: 38vh;
+        
+    }
+    #map{
+        height: 100%;
+     }
+}
