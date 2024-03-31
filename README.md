@@ -1,3 +1,3 @@
 Bootstrap Blog Site
 ---
-Bootstrap'in bazı bileşenlerini kullanarak yapmış olduğum bir blog sitesi örneğidir.
+Digiway Akademi Front-End eğitiminde bootstrap'in bazı bileşenleri kullanılarak hazırlanmış bir blog sitesidir.
